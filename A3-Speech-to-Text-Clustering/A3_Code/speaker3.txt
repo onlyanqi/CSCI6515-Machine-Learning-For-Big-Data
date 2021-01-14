@@ -1,0 +1,6 @@
+yes so yesterday I was working on the image zooming on the main product page and it went all right
+I was using a zoom FX plugin and that seem to work fine
+We did some tests against jQuery and now it just was not going to be as performant
+So we are going to use the zoom FX plugin and it seems to be handling large images
+I will work on that to make sure it serves okay today 
+I am going to get any blockers unless we have any memory issues all is good

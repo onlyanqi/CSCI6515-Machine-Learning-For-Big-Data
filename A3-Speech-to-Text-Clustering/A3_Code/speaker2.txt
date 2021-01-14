@@ -1,0 +1,2 @@
+yesterday I was uploading images and some advertising stuff and cross-browser checks and some automated tests for regression
+any problem not so far

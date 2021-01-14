@@ -1,0 +1,3 @@
+yesterday I was working on the main page doing frontend work some of the bugs raised I was looking into
+So I have got to do more cross layer checks but I think it should be ok
+basically we have some minor issues things at our place text or alignment so Util stuff
